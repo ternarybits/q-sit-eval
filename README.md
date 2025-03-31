@@ -9,3 +9,7 @@ Usage:
 ```
 uv run qsit.py [-h] [--model {q-sit,q-sit-mini}] input_path
 ```
+
+Q-align evaluation done using https://github.com/chaofengc/IQA-PyTorch
+
+Results: https://docs.google.com/spreadsheets/d/1nSPoOuRhsN4Feyub2Ep0bTAlS7C-hAymTmwuzhtE7xI/edit?usp=sharing
