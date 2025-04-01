@@ -1,7 +1,7 @@
 [project]
-name = "image-quality"
+name = "q-sit-eval"
 version = "0.1.0"
-description = "Add your description here"
+description = "Evaluating the q-sit model for rating image quality."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
@@ -9,5 +9,5 @@ dependencies = [
     "pillow>=11.1.0",
     "requests>=2.32.3",
     "torch>=2.6.0",
-    "transformers>=4.50.2",
+    "transformers==4.45.0",
 ]
